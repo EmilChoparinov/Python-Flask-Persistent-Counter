@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+p{
+    font-size: 5vw;
+}
+input{
+    font-size: 1vw;
+    padding: 1vw;
+    margin-top: 1vh;
+    width: 100%;
+}
